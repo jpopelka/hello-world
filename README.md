@@ -7,12 +7,14 @@ $ hello world!
 Hello world!
 ```
 
-
-## How to?
+## How to xyz?
 
 Just open a pull request on this repository and packit service will build your changes and provide an RPM repository using your pull request as a source.
 
 Follow the steps provided by the packit service and then install this tool like this:
+
 ```bash
 $ dnf install hello
 ```
+
+xxxyayyy
